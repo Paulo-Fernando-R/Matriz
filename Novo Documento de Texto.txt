@@ -1,0 +1,21 @@
+alternating rows
+
+menu
+
+
+
+
+
+
+
+default cell style
+
+back: white smoke
+royal blue
+midnight blue
+
+
+
+rows default cells style
+
+royalblue
